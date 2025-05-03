@@ -32,7 +32,11 @@
  (Facens - ADS)
 - Renan Zanollo Amorim - RA 222216
 - Isabela Queiroz Ferreira - RA 236858
-- Guilherme De Alcantara 
+- Guilherme De Alcantara
+
+## 💡 Mockups
+<img width="400" alt="bustrack-paper" src="https://github.com/user-attachments/assets/4fabb312-7b32-482d-84a6-f6443dfbd375" />
+<img width="134" alt="Bustrack-webpage" src="https://github.com/user-attachments/assets/ddad4048-f208-4a77-9610-c21cd10d1a02" />
 
 ---
 
